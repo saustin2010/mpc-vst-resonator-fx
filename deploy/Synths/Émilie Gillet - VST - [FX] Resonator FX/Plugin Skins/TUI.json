@@ -1565,7 +1565,7 @@
                     }
                 },
                 {
-                    "key": "RINGS FX|RINGS FX",
+                    "key": "RESONATOR FX|RESONATOR FX",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -2274,7 +2274,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "RINGS FX",
+                "tabName": "RESONATOR FX",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -2283,7 +2283,7 @@
                     "34 393 278 122",
                     "341 410 598 122"
                 ],
-                "componentName": "RINGS FX|RINGS FX",
+                "componentName": "RESONATOR FX|RESONATOR FX",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             }
